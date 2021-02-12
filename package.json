@@ -16,6 +16,14 @@
     "sweet hash",
     "password generator"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lahirudanushka/sweet-password.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lahirudanushka/sweet-password/issues"
+  },
+  "homepage": "https://github.com/lahirudanushka/sweet-password/blob/main/README.md",
   "author": "Lahiru Danushka",
   "license": "MIT"
 }
