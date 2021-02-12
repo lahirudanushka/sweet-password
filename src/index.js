@@ -1,4 +1,4 @@
-const safe_password = (sentence, minlength=8, maxlength=16) => {
+const sweetPassword = (sentence, minlength=8, maxlength=16) => {
 
   if (minlength > maxlength)
     return 'length error';
@@ -16,7 +16,7 @@ const safe_password = (sentence, minlength=8, maxlength=16) => {
   return password;
 }
 
-module.exports = safe_password;
+module.exports = sweetPassword;
 
 
 
